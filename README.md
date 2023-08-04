@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 <img src="https://cameronmcefee.com/img/work/the-octocat/walk-1.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -109,3 +109,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+](https://camo.githubusercontent.com/4c0fe5239df7740fc1f3fd2332dc4427519f56c05ab5a81b9d59471f53536238/68747470733a2f2f63616d65726f6e6d63656665652e636f6d2f696d672f776f726b2f7468652d6f63746f6361742f77616c6b2d312e676966)https://camo.githubusercontent.com/4c0fe5239df7740fc1f3fd2332dc4427519f56c05ab5a81b9d59471f53536238/68747470733a2f2f63616d65726f6e6d63656665652e636f6d2f696d672f776f726b2f7468652d6f63746f6361742f77616c6b2d312e676966
